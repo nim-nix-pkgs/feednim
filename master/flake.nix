@@ -9,7 +9,7 @@
   
   inputs.src-feednim-master.flake = false;
   inputs.src-feednim-master.owner = "johnconway";
-  inputs.src-feednim-master.ref   = "refs/heads/master";
+  inputs.src-feednim-master.ref   = "master";
   inputs.src-feednim-master.repo  = "feed-nim";
   inputs.src-feednim-master.type  = "github";
   

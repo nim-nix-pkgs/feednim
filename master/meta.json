@@ -1,8 +1,0 @@
-{
-  "desc": "An Atom, RSS, and JSONfeed parser",
-  "license": "MIT",
-  "name": "feednim",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/johnconway/feed-nim",
-  "version": "master"
-}

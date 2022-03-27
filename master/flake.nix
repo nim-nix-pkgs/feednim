@@ -11,6 +11,7 @@
   inputs.src-FeedNim-master.ref   = "refs/heads/master";
   inputs.src-FeedNim-master.owner = "johnconway";
   inputs.src-FeedNim-master.repo  = "feed-nim";
+  inputs.src-FeedNim-master.dir   = "";
   inputs.src-FeedNim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
